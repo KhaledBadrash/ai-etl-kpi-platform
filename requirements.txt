@@ -1,0 +1,9 @@
+pandas
+openpyxl
+sqlalchemy
+psycopg2-binary
+pydantic
+streamlit
+apscheduler
+watchdog
+plotly

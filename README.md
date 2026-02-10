@@ -15,4 +15,8 @@ my_etl_project/
 ├── app.py                  # Dashboard (Streamlit)
 ├── main_etl.py             # Der Orchestrator (Einstiegspunkt)
 ├── docker-compose.yml      # Für Postgres
-└── requirements.txt
+└── requirements.txt        # --> pip install -r requirements.txt (in powershell)
+
+pips:
+pip install ollama
+ollama pull llama3.1
